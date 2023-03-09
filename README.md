@@ -1,2 +1,2 @@
 # CryptoCurrencyApp
-Project Inspired from Phillip Lecnar
+Project Inspired from Phillip Lackner
